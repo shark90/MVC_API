@@ -1,0 +1,7 @@
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.Domain\bin\Debug\YetAnotherTodo.Domain.dll
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.Domain\bin\Debug\YetAnotherTodo.Domain.pdb
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.Domain\obj\Debug\YetAnotherTodo.Domain.csprojResolveAssemblyReference.cache
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.Domain\obj\Debug\YetAnotherTodo.Domain.dll
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.Domain\obj\Debug\YetAnotherTodo.Domain.pdb

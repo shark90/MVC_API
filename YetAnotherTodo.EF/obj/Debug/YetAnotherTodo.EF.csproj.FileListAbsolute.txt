@@ -1,0 +1,14 @@
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\YetAnotherTodo.EF.dll.config
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\YetAnotherTodo.EF.dll
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\YetAnotherTodo.EF.pdb
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\EntityFramework.dll
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\YetAnotherTodo.Domain.dll
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\YetAnotherTodo.Domain.pdb
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\EntityFramework.xml
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\obj\Debug\YetAnotherTodo.EF.csprojResolveAssemblyReference.cache
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\obj\Debug\YetAnotherTodo.EF.dll
+D:\back-to-top\MvcOverWebApi-master\YetAnotherTodo.EF\obj\Debug\YetAnotherTodo.EF.pdb

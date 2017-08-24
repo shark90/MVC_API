@@ -9,6 +9,7 @@ namespace YetAnotherTodo.Domain
         /// <summary>
         /// Creates a new empty User.
         /// </summary>
+        /// 
         public User()
         {
             Id = Guid.NewGuid().ToString();
